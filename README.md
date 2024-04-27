@@ -14,5 +14,8 @@ Food, Visit place in Japan
 #### Pupperfish
 - 福島あじ平 https://maps.app.goo.gl/a9SPMrS37PkY7QXdA
 - 玄品 大阪梅田東通 ふぐ・うなぎ・かに料理　https://maps.app.goo.gl/dTTKK6mrPsBMKA9r5
+#### Sushi
+- 亀すし https://maps.app.goo.gl/8rCu46ZcQsWsBsjXA
+- ゑんどう寿司 https://maps.app.goo.gl/v7sV688VB31DyRkr7
 
 
